@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-temp/static/js/main.fef21b09.js",
+    "static/media/mathematics-sign-plus-round-icon.svg": "/react-temp/static/media/mathematics-sign-plus-round-icon.5f19613f9108a555c4d0a6eeab7362b8.svg",
+    "static/media/mathematics-sign-minus-round-icon.svg": "/react-temp/static/media/mathematics-sign-minus-round-icon.54e08a41bd78e72cb7804194eb673a00.svg",
+    "index.html": "/react-temp/index.html",
+    "main.fef21b09.js.map": "/react-temp/static/js/main.fef21b09.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fef21b09.js"
+  ]
+}
